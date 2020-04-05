@@ -8,7 +8,7 @@ YTNotify is a simple Java application that periodically checks YouTube channels 
 
 YTNotify requires two things: [Simple JSON](https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple/1.1.1)'s jar file in the same folder and a Google API key with YouTube enabled in `key.txt`.
 
-1) Add your java bin to PATH environment,``` "C:\Program Files\Java\*your java version*\bin" ```
+1) Add your java bin to PATH environment,``` "C:\Program Files\Java\*your java folder*\bin" ```
 
 2) Compile it first: ```javac -classpath json-simple-1.1.1.jar YTNotify.java```
 
