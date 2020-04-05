@@ -34,4 +34,4 @@ There IS supposed to be a way to have notifications send actions to Java listene
 
 ### Why is "Add by Name" wonky? / Why not search by name?
 
-The "Add by Name" feature gets a channel's ID by using an internal name that may or may not match the channel's displayed name and will never have spaces. This is to avoid using "search" API calls, which use 10-30 times more quota and can easily use up a key. Nevertheless, I'll try adding in a name search feature in the future. Just use it carefully. Until then, use the channel's ID, which is usually part of its URL.
+The "Add by Name" feature gets a channel's ID by using an internal name that may or may not match the channel's displayed name and will never have spaces. This is to avoid using "search" API calls, which use 10-30 times more quota and can easily use up a key. Nevertheless, I'll try adding in a name search feature in the future. Just use it carefully. Until then, use the channel's ID, which is usually part of its URL..
